@@ -1,0 +1,4 @@
+197.210.55.209 - - [11/Feb/2023:16:10:34 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+197.210.55.209 - - [11/Feb/2023:16:10:36 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://18.233.62.195/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+197.210.55.75 - - [11/Feb/2023:16:10:56 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+197.210.55.75 - - [11/Feb/2023:16:10:58 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://ec2-18-233-62-195.compute-1.amazonaws.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
